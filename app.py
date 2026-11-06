@@ -82,4 +82,3 @@ st.bar_chart(sales)
 st.write("Quantity vs Revenue")
 st.scatter_chart(df, x="Quantity", y="Revenue_ZAR")
 
-Displaying app.py.
