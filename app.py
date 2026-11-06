@@ -4,6 +4,7 @@ import pandas as pd
 
 st.title("Retail Analytics Dashboard")
 
+st.image("Screenshot_20230916_092958_Samsung Internet.jpg")
 file = st.file_uploader("Upload CSV", type="csv")
 
 if file is None: st.stop()
