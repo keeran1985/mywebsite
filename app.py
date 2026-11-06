@@ -1,6 +1,4 @@
 
-app.py
-100%
 import streamlit as st
 import pandas as pd
 
